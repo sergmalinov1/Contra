@@ -25,9 +25,9 @@ public class MyMouseLook : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Rigidbody body = GetComponent<Rigidbody>();
+       /* Rigidbody body = GetComponent<Rigidbody>();
         if (body != null) // Проверяем, существует ли этот компонент.
-            body.freezeRotation = true;
+            body.freezeRotation = true;*/
     }
 
     // Update is called once per frame

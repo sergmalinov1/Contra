@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\FPSInput.cs" />
      <Compile Include="Assets\Scripts\MyMouseLook.cs" />
+     <Compile Include="Assets\Scripts\RayShooter.cs" />
      <Compile Include="Assets\Scripts\Spin.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Project/csharp/contra/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
