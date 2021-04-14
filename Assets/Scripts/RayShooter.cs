@@ -34,4 +34,4 @@ public class RayShooter : MonoBehaviour
         Destroy(sphere); // Удаляем этот GameObject и очищаем память.
     }
 }
-//ddd
+//ddd +2
